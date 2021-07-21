@@ -4,7 +4,7 @@
 public class LeapYear {
 
     /** Calls isLeapYear to print correct statement.
-     *  @param  year to be analyze
+     *  @param  year to be analyzed
      */
     private static void checkLeapYear(int year) {
         if (isLeapYear(year)) {
